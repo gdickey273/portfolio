@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.95d87aa0.css",
+    "main.js": "/static/js/main.f6454c5d.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
+    "static/media/whats-in-the-pantry.png": "/static/media/whats-in-the-pantry.80e44aef9a557e186817.png",
+    "static/media/me.JPG": "/static/media/me.bff996ff5fb72e72cf9d.JPG",
+    "static/media/work-day-scheduler.png": "/static/media/work-day-scheduler.6e9306b9db1aadd6896b.png",
+    "static/media/weather-dashboard.png": "/static/media/weather-dashboard.5e31846fc0b44af2d61d.png",
+    "static/media/code-quiz.png": "/static/media/code-quiz.90ce9d2ed6f449d44642.png",
+    "index.html": "/index.html",
+    "main.95d87aa0.css.map": "/static/css/main.95d87aa0.css.map",
+    "main.f6454c5d.js.map": "/static/js/main.f6454c5d.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95d87aa0.css",
+    "static/js/main.f6454c5d.js"
+  ]
+}
