@@ -19,6 +19,9 @@ function Navbar(props) {
               <Link to="portfolio">Portfolio</Link>
             </li>
             <li>
+            <Link to="horns">Horns</Link>
+            </li>
+            <li>
               <a href="assets/resume.pdf" download>Resume</a>
             </li>
           </ul>

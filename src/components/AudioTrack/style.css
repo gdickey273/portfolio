@@ -1,0 +1,30 @@
+.trackText {
+  color: #033A2B !important;
+}
+
+button {
+  width: 23%;
+}
+
+.trackContainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: baseline;
+  background-color: #ffecd1;
+  padding: 10px;
+  border: 3px solid #033A2B
+}
+
+/* .thumbnailContainer {
+
+} */
+
+.thumbnailImg {
+  width: 60px;
+}
+
+
+
+
+

@@ -1,0 +1,72 @@
+p {
+  color: #FFECD1;
+}
+
+.body{
+  background-color:  #033A2B;
+  padding: 2vw;
+  
+}
+
+#bodyOne {
+  height: 80vh;
+  overflow: hidden;
+}
+
+#columnRight {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-left: 2vw;
+}
+
+.tromImg {
+  width: 25vw;
+  border-radius: 30px;
+}
+
+h3 {
+  font-size: 5.5rem;
+  line-height: 5.5rem;
+}
+
+h1 {
+  font-size: 1.75rem;
+}
+
+.imgDiv{
+  width: 30;
+  padding: 8px;
+  border-radius: 30px;
+  background-color: #FFECD1;
+}
+
+.headerDiv {
+  border-bottom: solid 5px #FFA630;
+  width: 90%;
+  margin-bottom: 25px;
+  /* border: solid 5px yellow; */
+  
+}
+
+.tracksDiv {
+  width: 100%;
+  overflow-y: scroll;
+  height: 28vh;
+ 
+}
+
+.audioDiv{
+  width: 80%;
+}
+
+.playerDiv{
+  padding-top: 10px;
+}
+
+
+
+@media (max-width: 600px) {
+
+}
+
